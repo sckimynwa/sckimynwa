@@ -1,6 +1,5 @@
 
 <p align="center">
-    <img src="https://user-images.githubusercontent.com/30401400/156096984-486f774d-0735-4f8c-8840-7dd55c201634.svg" height="64">
     <h1 align="center">SangChul Kim (Yeoul Kim) 🍪</h1>
 </p>
 
