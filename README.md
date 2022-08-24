@@ -6,7 +6,7 @@
 
 - 📖 Currently, I’m mostly studying Frontend & DevOps Engineering.
 - 🏫 I’m double majoring in Computer Science & Design at Seoul National University
-- 💻 I work as a Frontend Developer for QANDA(Mathpresso), a Seoul-based Edtech Startup.
+- 💻 I work as a Frontend Developer for QANDA(Mathpresso), a Seoul-based Edutech Startup.
 
 <p>&nbsp;</p>
 
