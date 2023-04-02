@@ -4,7 +4,7 @@
 </p>
 
 - 📖 Currently, I’m mostly studying Frontend & DevOps Engineering.
-- 🏫 I’m double majoring in Computer Science & Design at Seoul National University
+- 🏫 I’m majoring in Computer Science at Seoul National University
 - 💻 I work as a Frontend Developer for QANDA(Mathpresso), a Seoul-based Edutech Startup.
 
 <p>&nbsp;</p>
@@ -13,7 +13,7 @@
 ![sckimynwa's github stats](https://github-readme-stats.vercel.app/api?username=sckimynwa&show_icons=true&theme=dracula)
 
 <p>
-  <a href="https://yeoulcoding.tistory.com/" target="_blank">
+  <a href="https://yeoulcoding.me/" target="_blank">
     <img src="https://img.shields.io/badge/TechBlog-green?style=for-the-badge&logo=Storyblok&logoColor=black"/>
   </a>
   <a href="https://www.linkedin.com/in/sang-chul-kim-a645a5162/" target="_blank">
