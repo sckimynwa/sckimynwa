@@ -5,8 +5,8 @@
 
 - 📖 Currently, I’m mostly studying Golang and Kotlin.
 - 🏫 I’m majoring in Computer Science at Seoul National University.
-- 💻 I work as a Frontend Developer for QANDA(Mathpresso)
-- 🧑‍💻 Co-Founded Team Normal.
+- 💻 I work as a Frontend Developer for QANDA(Mathpresso).
+- 🧑‍💻 Co-Founder of Team Pado.
 
 <p>&nbsp;</p>
 
