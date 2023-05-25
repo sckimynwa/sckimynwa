@@ -7,6 +7,7 @@
 - 🏫 I’m majoring in Computer Science at Seoul National University.
 - 💻 I work as a Frontend Developer for QANDA(Mathpresso).
 - 🧑‍💻 Co-Founder of Team Pado.
+- 🐧 Crew Member of First Penguin Crew.
 
 <p>&nbsp;</p>
 
