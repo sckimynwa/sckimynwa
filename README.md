@@ -3,16 +3,15 @@
     <h1 align="center">SangChul Kim (Yeoul Kim) 🍪</h1>
 </p>
 
-- 📖 Currently, I’m mostly studying Golang and Kotlin.
 - 🏫 I’m majoring in Computer Science at Seoul National University.
-- 💻 I work as a Frontend Developer for QANDA(Mathpresso).
-- 🧑‍💻 Co-Founder of Team Pado.
+- 💻 I work as a Frontend Engineer for QANDA(Mathpresso).
+- 🧑‍💻 Co-Founder of freshyeoul.
 - 🐧 Crew Member of First Penguin Crew.
 
 <p>&nbsp;</p>
 
 <p>
-  <a href="https://yeoulcoding.me/" target="_blank">
+  <a href="https://sckimynwa.github.io/" target="_blank">
     <img src="https://img.shields.io/badge/TechBlog-green?style=for-the-badge&logo=Storyblok&logoColor=black"/>
   </a>
   <a href="https://www.linkedin.com/in/sang-chul-kim-a645a5162/" target="_blank">
