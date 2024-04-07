@@ -5,7 +5,7 @@
 
 - 🏫 I’m majoring in Computer Science at Seoul National University.
 - 💻 I work as a Frontend Engineer for QANDA(Mathpresso).
-- 🧑‍💻 Co-Founder of freshyeoul.
+- 🧑‍💻 Co-Founder of the plato.
 - 🐧 Crew Member of First Penguin Crew.
 
 <p>&nbsp;</p>
