@@ -7,3 +7,5 @@
 
 <p>Student studying Computer Science in SNU.</p>
 <p>Co-Founder of The Plato.</p>
+
+[![Tip in Crypto](https://tip.md/badge.svg)](https://tip.md/sckimynwa)
